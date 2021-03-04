@@ -26,7 +26,7 @@ const styles = theme => ({
     marginBottom: theme.spacing.unit * 3
   },
   cardContent: {
-    backgroundColor: "white"
+    backgroundColor: "red"
   },
   cardHeader: {
     paddingTop: theme.spacing.unit,
